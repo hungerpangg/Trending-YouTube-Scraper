@@ -1,11 +1,11 @@
 US
-GB
+TW
 IN
-DE
+HK
 CA
 FR
-KR
-RU
+TH
+PH
 JP
-BR
-MX
+MY
+SG
